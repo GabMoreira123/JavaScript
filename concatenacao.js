@@ -1,4 +1,4 @@
 let nome = "Wanderson";
 let sobrenome = "Timóteo";
 let resultado = nome +  ""  + sobrenome;
-console.log(resultado);
+console.log(resultado);// Saída: "Wanderson Timóteo"
