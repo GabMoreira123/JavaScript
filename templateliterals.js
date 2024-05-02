@@ -3,4 +3,4 @@ let idade = 30;
 
 //Usando template literals para criar uma string com variáveis
 let saudacao = `Olá, meu nome é ${nome} e eu tenho ${idade} anos.`
-console.log(saudacao)
+console.log(saudacao);
