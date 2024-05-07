@@ -3,4 +3,4 @@ let y = "50";
 //Comparação
 let z = x == y;
 console.log(`x == y: ${z}`);
-//Qual é o resulatdo?
+//Qual é o resultado?
